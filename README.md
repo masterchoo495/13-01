@@ -48,3 +48,15 @@
 *Приведите ответ в свободной форме.*
 
 ### Решение
+
+**syn**
+![alt text](https://github.com/masterchoo495/13-01/blob/main/syn.png)  
+
+**fin**
+![alt text](https://github.com/masterchoo495/13-01/blob/main/fin.png)  
+
+**xmas**
+![alt text](https://github.com/masterchoo495/13-01/blob/main/xmas.png)  
+
+**udp**
+![alt text](https://github.com/masterchoo495/13-01/blob/main/udp.png)  
