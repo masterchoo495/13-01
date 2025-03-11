@@ -21,11 +21,11 @@
 
 ### Решение
 
-Скачайте и установите виртуальную машину Metasploitable: https://sourceforge.net/projects/metasploitable/.
-![alt text](https://github.com/masterchoo495/13-01/blob/main/001.png)
+Скачайте и установите виртуальную машину Metasploitable: https://sourceforge.net/projects/metasploitable/  
+![alt text](https://github.com/masterchoo495/13-01/blob/main/001.png)  
 
-Просканируйте эту виртуальную машину, используя **nmap**.
-![alt text](https://github.com/masterchoo495/13-01/blob/main/002.png)
+Просканируйте эту виртуальную машину, используя **nmap**  
+![alt text](https://github.com/masterchoo495/13-01/blob/main/002.png)  
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 - LibSSH 0.7.6 / 0.8.4 - Unauthorized Access - https://www.exploit-db.com/exploits/46307
