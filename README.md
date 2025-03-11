@@ -49,14 +49,16 @@
 
 ### Решение
 
-**syn**
+С точки зрения сетевого трафика перечисленные режимы отличаются флагами в заголовках (это видно на приложенных ниже снимках из Wireshark).
+
+**SYN**
 ![alt text](https://github.com/masterchoo495/13-01/blob/main/syn.png)  
 
-**fin**
+**FIN**
 ![alt text](https://github.com/masterchoo495/13-01/blob/main/fin.png)  
 
-**xmas**
+**XMAS**
 ![alt text](https://github.com/masterchoo495/13-01/blob/main/xmas.png)  
 
-**udp**
+**UDP**
 ![alt text](https://github.com/masterchoo495/13-01/blob/main/udp.png)  
