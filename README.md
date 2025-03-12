@@ -52,13 +52,13 @@
 С точки зрения сетевого трафика перечисленные режимы отличаются флагами в заголовках (это видно на приложенных ниже снимках из Wireshark).
 
 **SYN**
-![alt text](https://github.com/masterchoo495/13-01/blob/main/syn.png)  
+![alt text](https://github.com/masterchoo495/13-01/blob/main/syn2.png)  
 
 **FIN**
-![alt text](https://github.com/masterchoo495/13-01/blob/main/fin.png)  
+![alt text](https://github.com/masterchoo495/13-01/blob/main/fin2.png)  
 
 **XMAS**
-![alt text](https://github.com/masterchoo495/13-01/blob/main/xmas.png)  
+![alt text](https://github.com/masterchoo495/13-01/blob/main/xmas2.png)  
 
 **UDP**
 ![alt text](https://github.com/masterchoo495/13-01/blob/main/udp.png)  
